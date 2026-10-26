@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello, GitHub!");
         System.out.println("I am learning Java.");
         System.out.println("new line");
+        System.out.println("new line2");
     }
 }
