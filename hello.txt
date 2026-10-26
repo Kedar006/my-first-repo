@@ -1,0 +1,4 @@
+hello GitHub!
+
+i am learning git and GitHub 
+this is my first local project 
